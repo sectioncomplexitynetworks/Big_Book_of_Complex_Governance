@@ -3,9 +3,9 @@ title: About US
 author: Graham Ambrose
 date: 2026-06-20
 category: Jekyll
-layout: post
-cover: _pages/About/cropped-aspa-scns-1.png
+layout: post 
 ---
+![Section on Complexity and Network Studies Logo](_pages/About/cropped-aspa-scns-1.png "Section on Complexity and Network Studies Logo")
 
 # Section on Complexity and Network Studies
 
