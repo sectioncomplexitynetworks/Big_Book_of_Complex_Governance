@@ -11,20 +11,24 @@ TEXT TEXT TEXT
 ## Complexity
 
 TEXT TEXT TEXT
+
 ---
 ## Complex Adaptive Systems
 
 TEXT TEXT TEXT
+
 ---
 
 ## Networks
 
 TEXT TEXT TEXT
+
 ---
 
 ### Purpose Oriented Networks (PONs)
 
 TEXT TEXT TEXT
+
 ---
 
 ### System Oriented Networks (SONs)

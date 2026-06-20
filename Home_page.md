@@ -1,6 +1,6 @@
 ---
 layout: home
-title: The Big Book of Complex Governance 
+title: The Big Book of <br> Complex Governance 
 permalink: /
 ---
 
