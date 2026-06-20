@@ -1,7 +1,7 @@
 ---
-title: License
-author: Tao He
-date: 2019-04-29
+title: Data Cleaning and Management
+author: Graham Ambrose
+date: 2026-06-20
 category: Jekyll
 layout: post
 ---
@@ -9,4 +9,9 @@ layout: post
 This work is open sourced under the Apache License, Version 2.0, using the
 same license as the original [GitBook](https://github.com/GitbookIO/gitbook) repository.
 
-Copyright 2019 Tao He.
+---
+[About Us](_pages\About\about.md)
+
+© 2026 Section on Complexity and Network Studies. All rights reserved.
+
+---

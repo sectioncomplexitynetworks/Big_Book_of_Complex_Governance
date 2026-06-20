@@ -6,33 +6,65 @@ category: Jekyll
 layout: post
 ---
 
-The jekyll-gitbook theme can be used just as other [Jekyll themes][3] and
-support [remote theme][2] on [Github Pages][1], see [the official guide][4]
-as well.
+### Tips
 
-You can introduce this jekyll theme into your own site by either
+Using a `{: .block-tip}` attribute:
 
-- [Fork][5] this repository and add your markdown posts to the `_posts` folder, then
-  push to your own Github repository.
-- Use as a remote theme in your [`_config.yml`][6](just like what we do for this
-  site itself),
-
-```yaml
-# Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-
-remote_theme:     sighingnow/jekyll-gitbook
+```markdown
+> ##### TIP
+>
+> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+> this or a similar version after installation.
+{: .block-tip }
 ```
 
 > ##### TIP
 >
-> No need to push generated HTML bundle.
+> This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
+> this or a similar version after installation.
 {: .block-tip }
 
-[1]: https://pages.github.com
-[2]: https://github.com/sighingnow/jekyll-gitbook/fork
-[3]: https://pages.github.com/themes
-[4]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
-[5]: https://github.com/sighingnow/jekyll-gitbook/fork
-[6]: https://github.com/sighingnow/jekyll-gitbook/blob/master/_config.yml
+### Warnings
+
+Using a `{: .block-warning}` attribute:
+
+```markdown
+> ##### WARNING
+>
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
+```
+
+> ##### WARNING
+>
+> Be sure that you're familiar with things like async/await and object destructuring
+> before continuing, as we'll be making use of features like these.
+{: .block-warning }
+
+### Dangers
+
+Using a `{: .block-danger}` attribute:
+
+```markdown
+> ##### DANGER
+>
+> You cannot delete an ephemeral message.
+{: .block-danger }
+```
+
+> ##### DANGER
+>
+> You cannot delete an ephemeral message.
+{: .block-danger }
+
+[1]: https://discordjs.guide/popular-topics/canvas.html#setting-up-napi-rs-canvas
+[2]: https://kramdown.gettalong.org/quickref.html#block-attributes
+
+
+---
+[About Us](_pages\About\about.md)
+
+© 2026 Section on Complexity and Network Studies. All rights reserved.
+
+---

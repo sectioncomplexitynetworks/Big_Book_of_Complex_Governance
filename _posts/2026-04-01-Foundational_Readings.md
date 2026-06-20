@@ -38,4 +38,6 @@ TEXT TEXT TEXT
 ---
 [About Us](_pages\About\about.md)
 
+© 2026 Section on Complexity and Network Studies. All rights reserved.
+
 ---
