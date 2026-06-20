@@ -1,7 +1,7 @@
 ---
-title: How to Get Started
-author: Tao He
-date: 2019-04-28
+title: Research Design
+author: Graham Ambrose
+date: 2026-06-20
 category: Jekyll
 layout: post
 ---
