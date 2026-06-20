@@ -4,7 +4,7 @@ author: Graham Ambrose
 date: 2026-06-20
 category: Jekyll
 layout: post
-cover: _pages\About\cropped-aspa-scns-1.png
+cover: .About\cropped-aspa-scns-1.png
 ---
 
 # Section on Complexity and Network Studies
@@ -14,4 +14,4 @@ Within the broad aims and purposes of the American Society of Public Administrat
 ## Links
 
 - 🌐  **[Our Website](https://scnsaspa.wordpress.com/)**
-- 🌐  **[ASPA's Website](https://www.aspanet.org/ASPA/ASPA/Chapters-Sections/Section-Information-Pages/SCNS.aspx]**
+- 🌐  **[ASPA's Website](https://www.aspanet.org/ASPA/ASPA/Chapters-Sections/Section-Information-Pages/SCNS.aspx)**
