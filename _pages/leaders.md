@@ -6,8 +6,22 @@ category: Jekyll
 layout: post 
 ---
 
-<p>Total pages across site: <strong>{{ site.pages.size }}</strong></p>
-<p>Total blog posts: <strong>{{ site.posts.size }}</strong></p>
+<!-- Summary Counts of total Contributions -->
+
+{% assign target_string = "#####" %}
+{% assign total_count = 0 %}
+
+{% comment %} Loop through all blog posts {% endcomment %}
+{% for post in site.posts %}
+  {% if post.content contains target_string %}
+    {% assign parts = post.content | split: target_string %}
+    {% assign occurrences = parts.size | minus: 1 %}
+    {% assign total_count = total_count | plus: occurrences %}
+  {% endif %}
+{% endfor %}
+
+<p>Our community has contributed <strong>{{ total_count }}</strong> resources to produce this site.</p>
+
 
 
 ## Tags by Count
