@@ -12,14 +12,14 @@ tag: [this, that]
 Using a `{: .block-tip}` attribute:
 
 ```markdown
-> ##### TIP
+> #### TIP
 >
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
 > this or a similar version after installation.
 {: .block-tip }
 ```
 
-> ##### TIP
+> #### TIP
 >
 > This guide is last tested with @napi-rs/canvas^0.1.20, so make sure you have
 > this or a similar version after installation.
@@ -30,14 +30,14 @@ Using a `{: .block-tip}` attribute:
 Using a `{: .block-warning}` attribute:
 
 ```markdown
-> ##### WARNING
+> #### WARNING
 >
 > Be sure that you're familiar with things like async/await and object destructuring
 > before continuing, as we'll be making use of features like these.
 {: .block-warning }
 ```
 
-> ##### WARNING
+> #### WARNING
 >
 > Be sure that you're familiar with things like async/await and object destructuring
 > before continuing, as we'll be making use of features like these.
@@ -48,13 +48,13 @@ Using a `{: .block-warning}` attribute:
 Using a `{: .block-danger}` attribute:
 
 ```markdown
-> ##### DANGER
+> #### DANGER
 >
 > You cannot delete an ephemeral message.
 {: .block-danger }
 ```
 
-> ##### DANGER
+> #### DANGER
 >
 > You cannot delete an ephemeral message.
 {: .block-danger }
