@@ -63,7 +63,7 @@ Using a `{: .block-danger}` attribute:
 
 
 ---
-[About Us](_pages\About\about.md)
+[About Us](../_pages/About/about.md)
 
 © 2026 Section on Complexity and Network Studies. All rights reserved.
 
