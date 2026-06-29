@@ -46,7 +46,7 @@ layout: post
   <ul>
     {% for post in site.tags[name] %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> — {{ post.date | date: "%B %d, %Y" }}
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
       </li>
     {% endfor %}
   </ul>
