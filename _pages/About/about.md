@@ -1,5 +1,5 @@
 ---
-title: About US
+title: About Us
 author: Graham Ambrose
 date: 2026-06-20
 category: Jekyll
