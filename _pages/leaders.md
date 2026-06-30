@@ -58,7 +58,7 @@ layout: post
       {% assign name = post.title | first %}
       {% assign count = post.title | last | size %}
       <li>
-        <a href="{{ post.url | relative_url }}">{{ post.title }} ({{ count }})</a> 
+        <a href="{{ post.url | relative_url }}">{{ name }} ({{ count }})</a> 
       </li>
     {% endfor %}
   </ul>
