@@ -58,7 +58,7 @@ layout: post
   {% assign gathered_content = "" | split: "" %}
   
   {% for post in site.posts %}
-    {% assign extracted = post.content | split: '<div style="text-align: right"><i>' %}
+    {% assign extracted = post.content | split: '<div style="text-align: right"><i> submitted by ' %}
     {% for item in extracted %}
       {% if forloop.index0 > 0 %}
         {% assign content_piece = item | split: '</i></div>' | first | strip %}
