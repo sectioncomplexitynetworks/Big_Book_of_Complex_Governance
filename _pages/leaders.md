@@ -47,6 +47,23 @@ layout: post
   </ul>
 {% endfor %}
 
+<hr>
+
+<!-- Detailed Section with Posts -->
+{% for tag in site.tags %}
+  {% assign name = tag | first %}
+  <h4 id="{{ name | slugify }}">{{ name }}</h4>
+  <ul>
+    {% for post in site.tags[name] %}
+      {% assign name = post.title | first %}
+      {% assign count = post.title | last | size %}
+        <li>
+          <a href="{{ post.url | relative_url }}">{{ name }} ({{ count }})</a> 
+        </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 <!--
 ## Test
 
