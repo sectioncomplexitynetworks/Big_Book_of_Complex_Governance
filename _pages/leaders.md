@@ -52,11 +52,11 @@ layout: post
 <!-- Detailed Section with Posts -->
 {% for tag in site.tags %}
   {% assign name = tag | first %}
-  <h4 id="{{ name | slugify }}">{{ name }}</h4>
+  <h5 id="{{ name | slugify }}">{{ name }}</h5>
   <ul>
     {% for post in site.tags[name] %}
-      {% assign name = post.title | first %}
-      {% assign count = post.title | last | size %}
+      {% assign name = post | first %}
+      {% assign count = post | last | size %}
         <li>
           <a href="{{ post.url | relative_url }}">{{ name }} ({{ count }})</a> 
         </li>
