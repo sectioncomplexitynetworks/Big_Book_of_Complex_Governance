@@ -70,6 +70,8 @@ layout: post
 
 ### Test 2
 
+{%- assign total_comment_tags = 0 -%}
+
 <ul>
 {%- for post in site.posts -%}
   {%- comment -%} 
