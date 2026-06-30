@@ -60,7 +60,7 @@ layout: post
 
 <!-- Summary Name Counts at the Top -->
 
-<ul>
+<div class="tag-cloud">
   {% for post in site.posts %}
     {% if post.comments %}
       {% for comment in post.comments %}
@@ -70,5 +70,5 @@ layout: post
             {{ name }} ({{ count }})
         </a>
       {% endfor %}
-</ul>
+</div>
 
