@@ -78,6 +78,14 @@ title: "Comment Content Counter"
       {%- comment -%} Isolate the text inside the comment {%- endcomment -%}
       {% assign comment_pieces = part | split: '-->' %}
       {% assign comment_text = comment_pieces[0] | strip %}
+
+      <div class="tag-cloud">
+        {% assign name = part | first %}
+        {% assign count = part | last | size %}
+        <a href="#{{ name | slugify }}" style="margin-right: 15px;">
+          {{ name }} ({{ count }})
+        </a>
+      </div>
       
       {%- comment -%} Count words and increment totals {%- endcomment -%}
       {% assign words = comment_text | number_of_words %}
