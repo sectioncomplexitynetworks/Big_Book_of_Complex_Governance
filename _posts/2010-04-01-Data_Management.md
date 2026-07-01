@@ -11,7 +11,7 @@ tag:
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
+>**Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >
@@ -20,9 +20,9 @@ tag:
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 > 
-> ##### The Big Book of R
+> ##### 🌐 The Big Book of R
 >
->🌐  **Link:** [https://www.bigbookofr.com/](https://www.bigbookofr.com/) 
+>**Link:** [https://www.bigbookofr.com/](https://www.bigbookofr.com/) 
 >
 ><i>Oscar Baruffa</i>
 >

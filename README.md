@@ -148,7 +148,7 @@ Resulting in:
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Link to resource](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
+>  **Link:** [Link to resource](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >
@@ -177,6 +177,13 @@ Results in:
 > 
 > ##### Resource #2
 > Text
+
+** Icons for different resources**
+- 📖 for books
+- 🌐 for web resources
+- ▶️ for videos
+- 📊 for datasets
+- 📄 for articles 
 
 ### Home_page.md
 

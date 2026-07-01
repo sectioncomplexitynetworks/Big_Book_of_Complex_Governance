@@ -10,9 +10,9 @@ tag:
 ---
 
 > 
-> ##### Complex Adaptive Systems: An Introduction to Computational Models of Social Life
+> ##### 📖 Complex Adaptive Systems: An Introduction to Computational Models of Social Life
 >
->🌐  **Link:** [https://press.princeton.edu/books/paperback/9780691127026/complex-adaptive-systems?srsltid=AfmBOoqZ-NToYh_T_jKsqluIlVMIUT-5hBJsCCi85-DL2qlDbLf44DXy](https://press.princeton.edu/books/paperback/9780691127026/complex-adaptive-systems?srsltid=AfmBOoqZ-NToYh_T_jKsqluIlVMIUT-5hBJsCCi85-DL2qlDbLf44DXy) 
+> **Link:** [https://press.princeton.edu/books/paperback/9780691127026/complex-adaptive-systems?srsltid=AfmBOoqZ-NToYh_T_jKsqluIlVMIUT-5hBJsCCi85-DL2qlDbLf44DXy](https://press.princeton.edu/books/paperback/9780691127026/complex-adaptive-systems?srsltid=AfmBOoqZ-NToYh_T_jKsqluIlVMIUT-5hBJsCCi85-DL2qlDbLf44DXy) 
 >
 ><i>John H. Miller and Scott E. Page</i>
 >
@@ -23,7 +23,7 @@ tag:
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
+>**Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >

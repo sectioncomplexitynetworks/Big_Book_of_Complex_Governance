@@ -13,9 +13,9 @@ tag:
 General discussion of what SOAM are.
 
 > 
-> ##### Manual for RSiena
+> ##### 📄 Manual for RSiena
 >
->🌐  **Link:** [https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf) 
+>**Link:** [https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf) 
 >
 ><i>Ruth M. Ripley, Tom A.B. Snijders, Zsófia Boda, András Vörös </i>
 >
@@ -27,7 +27,7 @@ General discussion of what SOAM are.
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
+>**Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >
