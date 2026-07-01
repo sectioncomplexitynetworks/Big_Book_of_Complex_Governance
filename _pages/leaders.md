@@ -24,17 +24,19 @@ layout: post
 <!-- Summary Counts at the Top -->
 
 <div class="tag-cloud"> 
-  {% for tag in site.tags %}
-    {% assign name = tag | first %}
-    {% assign count = tag | last | size %}
-    <ol type="I">
+  <ol type="I">
+    {% for tag in site.tags %}
+      {% assign name = tag | first %}
+      {% assign count = tag | last | size %}
+    
       <li>
-    <!-- <a style="margin-right: 15px;">  href="#{{ name | slugify }}" -->
+        <!-- <a style="margin-right: 15px;">  href="#{{ name | slugify }}" -->
         {{ name }} ({{ count }})
-    <!--</a>-->
+        <!--</a>-->
       </li>
-    </ol>  
-  {% endfor %}
+      
+    {% endfor %}
+  </ol>
 </div>
 
 <hr>
