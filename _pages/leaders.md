@@ -19,12 +19,12 @@ layout: post
 
 
 
-#### Contributors by numbers of contributions:
+#### Contributors by the number of resources they contributed:
 
 <!-- Summary Counts at the Top -->
 
 <div class="tag-cloud"> 
-  <ol type="I">
+  <ol type="1">
     {% for tag in site.tags %}
       {% assign name = tag | first %}
       {% assign count = tag | last | size %}
