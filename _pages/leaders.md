@@ -19,7 +19,7 @@ layout: post
 
 
 
-## Contributors by numbers of contributions:
+#### Contributors by numbers of contributions:
 
 <!-- Summary Counts at the Top -->
 
@@ -27,11 +27,13 @@ layout: post
   {% for tag in site.tags %}
     {% assign name = tag | first %}
     {% assign count = tag | last | size %}
-    <li>
+    <ol type="I">
+      <li>
     <!-- <a style="margin-right: 15px;">  href="#{{ name | slugify }}" -->
-      {{ name }} ({{ count }})
+        {{ name }} ({{ count }})
     <!--</a>-->
-    </li>
+      </li>
+    </ol>  
   {% endfor %}
 </div>
 
