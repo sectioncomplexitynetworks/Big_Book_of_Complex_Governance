@@ -134,7 +134,7 @@ The following is the template for all resource cards:
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/)  
+>🌐  **Link:** [Link to resource](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >
@@ -148,7 +148,7 @@ Resulting in:
 > 
 > ##### Add a Resource Here!
 >
->🌐  **Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
+>🌐  **Link:** [Link to resource](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
 >
 ><i>Authors</i>
 >
@@ -160,26 +160,44 @@ Each line should start with a `>`. If there is a return, you will need a new `>`
 
 ```markdown
 > 
-> ##### Resource Here #1
+> ##### Resource #1
 > Text
 
 > 
-> ##### Resource Here #2
+> ##### Resource #2
 > Text
 ```
 
 Results in:
 
 > 
-> ##### Resource Here #1
+> ##### Resource #1
 > Text
 
 > 
-> ##### Resource Here #2
+> ##### Resource #2
 > Text
+
+### Home_page.md
+
+This file is not nested within another folder. The frontmatter is the following and should not change.
+
+```markdown
+---
+layout: home
+title: The Big Book of Complex Governance 
+permalink: /
+---
+```
+
+The content of the page can be edited in the same manner as above.
+
+### _config.yml
+
+This file should rarely be change. The only time it should change is if the url for the site is changed -- i.e., change `url` and `base url` -- or a new individual takes over managing duties for the site -- i.e., -- change `author` and `email`. 
 
 ## License
 
 This work is open sourced under the Apache License, Version 2.0.
 
-Copyright 2019 Tao He.
+© 2026 Section on Complexity and Network Studies. All rights reserved.
