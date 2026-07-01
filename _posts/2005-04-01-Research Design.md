@@ -8,9 +8,9 @@ tag:
 ---
 
 > 
-> ##### Add a esource Here!
+> ##### Add a Resource Here!
 >
->🌐  **Link:** [](Broken Link) 
+>🌐  **Link:** [https://ambro034.github.io/Big_Book_of_Complex_Governance/](Stand-in Link to Home Page) 
 >
 ><i>Authors</i>
 >
