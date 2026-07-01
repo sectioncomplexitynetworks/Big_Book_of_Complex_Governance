@@ -23,7 +23,7 @@ layout: post
 
 <!-- Summary Counts at the Top -->
 
-<!-- <div class="tag-cloud"> -->
+<div class="tag-cloud"> 
   {% for tag in site.tags %}
     {% assign name = tag | first %}
     {% assign count = tag | last | size %}
@@ -31,9 +31,40 @@ layout: post
       {{ name }} ({{ count }})
     </a>
   {% endfor %}
-<!-- </div> -->
+</div>
 
 <hr>
+
+<h2>All Tags</h2>
+
+{% comment %} 1. Create a padded string of 'count tag_name' separated by carets {% endcomment %}
+{% capture tag_data %}
+  {% for tag in site.tags %}
+    {% assign tag_name = tag[0] | replace: ' ', '-' %}
+    {% assign tag_count = tag[1].size | prepend: '0000' | slice: -4, 4 %}
+    {{ tag_count }} {{ tag_name }}^{% endfor %}
+{% endcapture %}
+
+{% comment %} 2. Split into an array, sort alphabetically/numerically, and reverse for highest to lowest {% endcomment %}
+{% assign sorted_tags = tag_data | split: '^' | sort | reverse %}
+
+{% comment %} 3. Loop through the sorted array and render the tags {% endcomment %}
+<ul>
+  {% for item in sorted_tags %}
+    {% unless item == empty %}
+      {% assign parts = item | split: ' ' %}
+      {% assign count = parts[0] | times: 1 %}
+      {% assign name = parts[1] | replace: '-', ' ' %}
+
+      <li>
+        <a href="/tag/{{ name | slugify }}/">
+          {{ name }}
+        </a>
+        ({{ count }})
+      </li>
+    {% endunless %}
+  {% endfor %}
+</ul>
 
 
 <!-- Detailed Section with Posts -->
