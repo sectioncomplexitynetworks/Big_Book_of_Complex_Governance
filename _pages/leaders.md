@@ -22,11 +22,12 @@ layout: post
 ## Tags by Count
 
 <!-- Summary Counts at the Top -->
+
 <div class="tag-cloud">
   {% for tag in site.tags %}
     {% assign name = tag | first %}
     {% assign count = tag | last | size %}
-    <a href="#{{ name | slugify }}" style="margin-right: 15px;">
+    <a style="margin-right: 15px;">  <!-- href="#{{ name | slugify }}" -->
       {{ name }} ({{ count }})
     </a>
   {% endfor %}
@@ -34,7 +35,9 @@ layout: post
 
 <hr>
 
+
 <!-- Detailed Section with Posts -->
+<!--
 {% for tag in site.tags %}
   {% assign name = tag | first %}
   <h4 id="{{ name | slugify }}">{{ name }}</h4>
@@ -48,8 +51,10 @@ layout: post
 {% endfor %}
 
 <hr>
+-->
 
 <!-- Detailed Section with Posts -->
+<!--
 {% for tag in site.tags %}
   {% assign name = tag | first %}
   <h5 id="{{ name | slugify }}">{{ name }}</h5>
@@ -63,6 +68,7 @@ layout: post
     {% endfor %}
   </ul>
 {% endfor %}
+-->
 
 <!--
 ## Test
