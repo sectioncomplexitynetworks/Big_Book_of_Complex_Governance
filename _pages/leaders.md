@@ -19,11 +19,11 @@ layout: post
 
 
 
-## Tags by Count
+## Contributors by numbers of contributions:
 
 <!-- Summary Counts at the Top -->
 
-<div class="tag-cloud">
+<!-- <div class="tag-cloud"> -->
   {% for tag in site.tags %}
     {% assign name = tag | first %}
     {% assign count = tag | last | size %}
@@ -31,7 +31,7 @@ layout: post
       {{ name }} ({{ count }})
     </a>
   {% endfor %}
-</div>
+<!-- </div> -->
 
 <hr>
 
