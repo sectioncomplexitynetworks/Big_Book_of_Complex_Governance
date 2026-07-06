@@ -1,5 +1,5 @@
 ---
-title: Contributor Leader Board 
+title: Contributor Leaderboard 
 author: Graham Ambrose
 date: 2026-06-29
 category: Jekyll
