@@ -18,7 +18,7 @@ tag:
 >
 >"This book provides the first clear, comprehensive, and accessible account of complex adaptive social systems, by two of the field’s leading authorities. Such systems—whether political parties, stock markets, or ant colonies—present some of the most intriguing theoretical and practical challenges confronting the social sciences. Engagingly written, and balancing technical detail with intuitive explanations, Complex Adaptive Systems focuses on the key tools and ideas that have emerged in the field since the mid-1990s, as well as the techniques needed to investigate such systems. It provides a detailed introduction to concepts such as emergence, self-organized criticality, automata, networks, diversity, adaptation, and feedback. It also demonstrates how complex adaptive systems can be explored using methods ranging from mathematics to computational models of adaptive agents."
 >
-> <div style="text-align: right"><i> submitted by Graham Ambrose! </i></div>
+> <div style="text-align: right"><i> submitted by Graham Ambrose </i></div>
 
 > 
 > ##### Add a Resource Here!
