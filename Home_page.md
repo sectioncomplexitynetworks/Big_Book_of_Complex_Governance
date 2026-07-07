@@ -4,7 +4,7 @@ title: The Big Book of Complex Governance
 permalink: /
 ---
 
-![Big Book of Complex Governance Logo](assets/gitbook/images/Big_Book_Image.png "SectioBig Book of Complex Governance Logo")
+![Big Book of Complex Governance Logo](assets/gitbook/images/Big_Book_Image_v2.png "SectioBig Book of Complex Governance Logo")
 
 Welcome to the Big Book of Complex Governance 
 
