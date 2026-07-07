@@ -4,9 +4,9 @@ title: The Big Book of Complex Governance
 permalink: /
 ---
 
-Welcome to the Big Book of Complex Governance 
+![Big Book of Complex Governance Logo](assets/gitbook/images/Big_Book_Image.png "SectioBig Book of Complex Governance Logo")
 
-# WELCOME!
+Welcome to the Big Book of Complex Governance 
 
 We’re excited to see that you share our enthusiasm for the Big Book of Complex Governance! To keep the momentum from ASPA going, we’d love to continue building this initiative together.
 
