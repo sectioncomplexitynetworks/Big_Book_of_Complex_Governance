@@ -5,9 +5,6 @@ date: 2026-06-20
 category: Jekyll
 layout: post 
 ---
-![Section on Complexity and Network Studies Logo](/assets/cropped-aspa-scns-1.png "Section on Complexity and Network Studies Logo")
-
-# Section on Complexity and Network Studies
 
 Interested in adding a resource or identifying a pain points? Git involved by filling out the form below~
 
