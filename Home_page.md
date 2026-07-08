@@ -25,9 +25,9 @@ We’re excited to see that you share our enthusiasm for the Big Book of Complex
 
 ## How can you get involved?
 
-We encourage everyone to contribute. At ASPA, we began mapping out potential “chapters” for this book that you see to the left. Now, we invite you to review, refine, and expand on those themes and topics.
+We encourage everyone to contribute. At ASPA, we began mapping out potential “chapters” for this book that you see to the left. Now, we invite you to review, refine, and expand on those themes, topics, and resources.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf6QhS_JWwFECU6Sm9Iyr31G9WSMXQo4TDGwF1vD_YC8196og/viewform?embedded=true" width="640" height="2518" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+If you have resources or pain points you would like to submit, a form is avaliable on our [Submit a Resource](https://www.bigbookofcomplexgov.com/pages/submit_resource/) page.
 
 
 ## Your Responses from the Last Outreach
