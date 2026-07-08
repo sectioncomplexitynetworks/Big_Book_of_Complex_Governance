@@ -13,12 +13,12 @@ We’re excited to see that you share our enthusiasm for the Big Book of Complex
 
 ## What is the Big Book of Complex Governance?
 
-> ##### **The challenge**
+> ##### **The Challenge**
 >
 > Research on complex governance can be difficult to navigate—resources are scattered, methods are complex, and theoretical approaches are diverse. Many of us end up working through similar challenges in isolation.
 {: .block-danger }
 
-> ##### **The goal**
+> ##### **The Goal**
 >
 > To create a shared, open-source repository of resources that helps both current and future scholars overcome these barriers more efficiently.
 {: .block-tip }
