@@ -13,14 +13,21 @@ We’re excited to see that you share our enthusiasm for the Big Book of Complex
 
 ## What is the Big Book of Complex Governance?
 
-- **The challenge**: Research on complex governance can be difficult to navigate—resources are scattered, methods are complex, and theoretical approaches are diverse. Many of us end up working through similar challenges in isolation.
+> ##### **The challenge**
+>
+> Research on complex governance can be difficult to navigate—resources are scattered, methods are complex, and theoretical approaches are diverse. Many of us end up working through similar challenges in isolation.
+{: .block-danger }
 
-- **The goal**: To create a shared, open-source repository of resources that helps both current and future scholars overcome these barriers more efficiently.
-If you’d like to learn more, you can view the ASPA presentation here.
+> ##### **The goal**
+>
+> To create a shared, open-source repository of resources that helps both current and future scholars overcome these barriers more efficiently.
+{: .block-tip }
 
 ## How can you get involved?
 
 We encourage everyone to contribute. At ASPA, we began mapping out potential “chapters” for this book that you see to the left. Now, we invite you to review, refine, and expand on those themes and topics.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf6QhS_JWwFECU6Sm9Iyr31G9WSMXQo4TDGwF1vD_YC8196og/viewform?embedded=true" width="640" height="2518" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 ## Your Responses from the Last Outreach
