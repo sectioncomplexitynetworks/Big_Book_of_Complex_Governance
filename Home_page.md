@@ -2,7 +2,7 @@
 layout: home
 title: The Big Book of Complex Governance 
 hide_title: true
-permalink: /about/
+
 ---
 
 ![Big Book of Complex Governance Logo](assets/Big_Book_Image.png "Big Book of Complex Governance Logo")

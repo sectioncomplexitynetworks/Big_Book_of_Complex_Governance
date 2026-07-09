@@ -4,6 +4,7 @@ author: Graham Ambrose
 date: 2026-06-20
 category: Jekyll
 layout: post 
+permalink: /about/
 ---
 ![Section on Complexity and Network Studies Logo](/assets/cropped-aspa-scns-1.png "Section on Complexity and Network Studies Logo")
 
