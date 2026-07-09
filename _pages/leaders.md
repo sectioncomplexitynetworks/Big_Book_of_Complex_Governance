@@ -149,3 +149,6 @@ layout: post
 
 ### Test 3
 -->
+---
+[About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
+---

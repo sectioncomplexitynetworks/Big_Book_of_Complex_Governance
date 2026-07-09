@@ -37,10 +37,5 @@ tag:
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 ---
-
----
-[About Us](../_pages/About/about.md)
-
-© 2026 Section on Complexity and Network Studies. All rights reserved.
-
+[About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
 ---
