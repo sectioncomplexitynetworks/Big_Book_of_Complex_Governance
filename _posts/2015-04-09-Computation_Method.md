@@ -19,7 +19,7 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
-
 ---
 [About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
+
 ---

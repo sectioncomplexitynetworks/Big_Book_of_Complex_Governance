@@ -39,6 +39,8 @@ If you have resources or pain points you would like to submit, a form is avaliab
    - **Practice and Impact**: Incorporate a chapter on "working with practice" that highlights how research connects to human well-being, risk management, and decision-making, while addressing ethical considerations such as transparency, accountability, and the impact of data collection in sensitive contexts.
    - **Methodological Expansion**: Expand the methods section to include Qualitative Comparative Analysis (QCA), Network Exposure Models, and specific discussions on simulations, while integrating case studies to illustrate practical applications.
    - **Community Engagement**: Add a dedicated framework for evaluating governance initiatives to support adaptive management and foster community-engaged approaches that ensure research results provide meaningful value to practitioners.
+
 ---
 [About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
+
 ---
