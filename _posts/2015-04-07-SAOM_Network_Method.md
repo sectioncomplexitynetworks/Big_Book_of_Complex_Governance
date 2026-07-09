@@ -37,8 +37,8 @@ General discussion of what SOAM are.
 
 
 ---
-<div align="center">
+[About Us](../_pages/About/about.md)
 
-[About Us](/pages/about/) © 2026 Section on Complexity and Network Studies. All rights reserved. 
-</div>
+© 2026 Section on Complexity and Network Studies. All rights reserved.
+
 ---
