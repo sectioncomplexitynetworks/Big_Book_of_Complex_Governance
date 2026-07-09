@@ -31,5 +31,8 @@ tag:
 > <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
 
 ---
+<div align="center">
+
 [About Us](/pages/about/) © 2026 Section on Complexity and Network Studies. All rights reserved. 
+</div>
 ---
