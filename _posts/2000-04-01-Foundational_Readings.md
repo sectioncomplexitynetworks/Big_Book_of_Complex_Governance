@@ -32,7 +32,7 @@ tag:
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 ---
-[About Us](./pages/about.md)
+[About Us](/pages/about/)
 
 © 2026 Section on Complexity and Network Studies. All rights reserved.
 
