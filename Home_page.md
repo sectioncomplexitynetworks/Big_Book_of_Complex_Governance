@@ -5,7 +5,7 @@ hide_title: true
 permalink: /
 ---
 
-![Big Book of Complex Governance Logo](assets/Big_Book_Image_FINAL.png "SectioBig Book of Complex Governance Logo")
+![Big Book of Complex Governance Logo](assets/Big_Book_Image_FINAL.png "SectioBig Book of Complex Governance Logo ")
 
 Welcome to the Big Book of Complex Governance 
 
