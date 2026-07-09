@@ -39,8 +39,6 @@ layout: post
   </ol>
 </div>
 
-<hr>
-
 <!-- Detailed Section with Posts -->
 <!--
 {% for tag in site.tags %}
