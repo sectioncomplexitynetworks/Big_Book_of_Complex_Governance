@@ -32,6 +32,6 @@ tag:
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 ---
-[About Us]({{ "/about/" | relative_url }}) © 2026 Section on Complexity and Network Studies. All rights reserved.
+[About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
 
 ---
