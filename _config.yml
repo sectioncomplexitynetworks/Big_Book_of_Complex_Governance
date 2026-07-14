@@ -52,8 +52,7 @@ exclude:
   - _drafts
 
 collections:
-  #pages:
-  chapter:
+  pages:
     output: true
     permalink: /:collection/:path/
   others:
