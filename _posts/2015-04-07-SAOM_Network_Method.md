@@ -2,7 +2,7 @@
 title: 4.A.v Stochastic Actor-Oriented Model (SAOM/SIENA) Methods
 author: Graham Ambrose
 date: 2026-06-20
-category: Jekyll
+category: Methods
 layout: post
 tag:
   - Graham Ambrose

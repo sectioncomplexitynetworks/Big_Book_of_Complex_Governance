@@ -2,7 +2,7 @@
 title: 4.A.i Descriptive Network Analysis
 author: Graham Ambrose
 date: 2026-06-20
-category: Jekyll
+category: Methods
 layout: post
 tag:
 
