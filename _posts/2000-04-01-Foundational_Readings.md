@@ -4,6 +4,10 @@ author: Graham Ambrose
 date: 2026-06-20
 category: Jekyll
 layout: post
+
+chapter:1
+section:
+order: 1
 tag: 
   - Graham Ambrose
 
