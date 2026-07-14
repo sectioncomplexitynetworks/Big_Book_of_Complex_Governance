@@ -2,7 +2,7 @@
 title: 2. Research Design
 author: Graham Ambrose
 date: 2026-06-20
-category: Jekyll
+category: 
 layout: post
 tag: 
 ---

@@ -2,7 +2,7 @@
 title: 1 Foundational Readings
 author: Graham Ambrose
 date: 2026-06-20
-category: Jekyll
+category: Readings
 layout: post
 
 tag: 
