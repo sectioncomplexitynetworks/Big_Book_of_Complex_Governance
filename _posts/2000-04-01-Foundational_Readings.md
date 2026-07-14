@@ -5,8 +5,6 @@ date: 2026-06-20
 category: Jekyll
 layout: post
 
-order: 1
-
 tag: 
   - Graham Ambrose
 
