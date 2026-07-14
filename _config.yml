@@ -53,7 +53,7 @@ exclude:
 
 collections:
   #pages:
-  chapters:
+  chapter:
     output: true
     permalink: /:collection/:path/
   others:
