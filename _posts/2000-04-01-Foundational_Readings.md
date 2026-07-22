@@ -24,7 +24,7 @@ tag:
 > 
 > ##### Add a Resource Here!
 >
->**Link:** [Stand-in Link to Home Page]({{"/"}}) 
+>**Link:** [Submit a Resource Today!]({{"/submit_resource/"}}) 
 >
 ><i>Authors</i>
 >
