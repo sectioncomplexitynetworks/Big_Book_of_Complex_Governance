@@ -39,6 +39,35 @@ layout: post
   </ol>
 </div>
 
+<div class="tag-cloud">
+  {% assign sorted_tags = "" | split: "" %}
+
+  {% for tag in site.tags %}
+    {% assign name = tag | first %}
+    {% assign count = tag | last | size %}
+
+    {%- capture item -%}
+      {{ count | prepend: '0000' | slice: -4, 4 }}::{{ name }}
+    {%- endcapture -%}
+
+    {% assign sorted_tags = sorted_tags | push: item %}
+  {% endfor %}
+
+  {% assign sorted_tags = sorted_tags | sort | reverse %}
+
+  <ol type="1">
+    {% for item in sorted_tags %}
+      {% assign parts = item | split: "::" %}
+      {% assign name = parts[1] %}
+      {% assign count = parts[0] | plus: 0 %}
+
+      <li>
+        <strong>{{ name }}</strong> ({{ count }})
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+
 <!-- Detailed Section with Posts -->
 <!--
 {% for tag in site.tags %}
