@@ -24,7 +24,7 @@ tag:
 > 
 > ##### Add a Resource Here!
 >
->**Link:** [Submit a Resource Today!]({{"/submit_resource/"}}) 
+>**Link:** [Submit a Resource Today!]({{"/pages/submit_resource/"}}) 
 >
 ><i>Authors</i>
 >
