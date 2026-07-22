@@ -23,22 +23,6 @@ layout: post
 
 <!-- Summary Counts at the Top -->
 
-<div class="tag-cloud"> 
-  <ol type="1">
-    {% for tag in site.tags %}
-      {% assign name = tag | first %}
-      {% assign count = tag | last | size %}
-    
-      <li>
-        <!-- <a style="margin-right: 15px;">  href="#{{ name | slugify }}" -->
-        <strong>{{ name }}</strong> ({{ count }})
-        <!--</a>-->
-      </li>
-      
-    {% endfor %}
-  </ol>
-</div>
-
 <div class="tag-cloud">
   {% assign sorted_tags = "" | split: "" %}
 
