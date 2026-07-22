@@ -38,7 +38,7 @@ tag:
 > 
 > ##### Qualitative Comparative Analysis Using R: A Beginner's Guide. Cambridge University Press. (2021)
 >
->📄  **Link:** [https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359](https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359) 
+>📖  **Link:** [https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359](https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359) 
 >
 ><i>Oana, I.-E., Schneider, C. Q., & Thomann, E.</i>
 >
