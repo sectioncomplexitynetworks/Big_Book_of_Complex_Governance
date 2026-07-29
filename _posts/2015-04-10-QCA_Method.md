@@ -13,7 +13,7 @@ tag:
 
 ---
 ### Table of Contents
-<div style="text-align: center">
+<div style="text-align: center" markdown="1">
   
 📖 [Books](#Books)
 📄 [Articles](#Articles)
