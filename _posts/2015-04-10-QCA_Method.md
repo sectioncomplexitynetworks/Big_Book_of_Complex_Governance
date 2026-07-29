@@ -12,17 +12,15 @@ tag:
   - Kate Albrecht
 
 ---
-### Table of Contents
+
 <div style="text-align: center" markdown="1">
+#### Table of Contents
   
 📖 [Books](#books)
 📄 [Articles](#articles)
 💻 [Data Packages](#data-packages)
-
 <!-- 🌐 [Web Resources](#web-resources) -->
-
 <!-- ▶️ [Videos](#videos) -->
-
 <!-- 📊 [Datasets](#datasets) -->
 
 </div>
