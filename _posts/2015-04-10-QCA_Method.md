@@ -13,15 +13,17 @@ tag:
 
 ---
 
+📖 [Books](#Books)
 
-📖 for [Books](#Books)
+📄 [Articles](#Articles)
 
-📄 for [Articles](#Articles)
+💻 [Data Packages](#Data-Packages)
 
-💻 for [Data Packages](#Data-Packages)
-<!-- 🌐 for [Web Resources](#Web-Resources) -->
-<!-- ▶️ for [Videos](#Videos) -->
-<!-- 📊 for [Datasets](#Datasets) -->
+<!-- 🌐 [Web Resources](#Web-Resources) -->
+
+<!-- ▶️ [Videos](#Videos) -->
+
+<!-- 📊 [Datasets](#Datasets) -->
 
 ### Books
 
