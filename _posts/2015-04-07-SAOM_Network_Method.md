@@ -13,18 +13,6 @@ tag:
 General discussion of what SOAM are.
 
 > 
-> ##### 📄 Manual for RSiena
->
->**Link:** [https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf) 
->
-><i>Ruth M. Ripley, Tom A.B. Snijders, Zsófia Boda, András Vörös </i>
->
->The RSiena Manual is a comprehensive guide to the RSiena R package, which implements stochastic actor-oriented models (SAOMs) for analyzing the evolution of longitudinal social networks and the co-evolution of networks and individual behaviors. It provides both conceptual explanations and practical instruction on installing the software, preparing network data, specifying and estimating models, interpreting results, and applying advanced methods for dynamic social network analysis.
->
-> <div style="text-align: right"><i> submitted by Graham Ambrose </i></div>
-
-
-> 
 > ##### Add a Resource Here!
 >
 >**Link:** [Submit a Resource Today!]({{"/pages/submit_resource/"}})  
@@ -34,6 +22,27 @@ General discussion of what SOAM are.
 >Description of the resource here
 >
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
+
+<!-- ### 📖 Books -->
+<!-- ### 📄 Articles -->
+### 💻 Data Packages
+
+> 
+> ##### 💻 Manual for RSiena
+>
+>**💻 Link:** [https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf) 
+>
+><i>Ruth M. Ripley, Tom A.B. Snijders, Zsófia Boda, András Vörös </i>
+>
+>The RSiena Manual is a comprehensive guide to the RSiena R package, which implements stochastic actor-oriented models (SAOMs) for analyzing the evolution of longitudinal social networks and the co-evolution of networks and individual behaviors. It provides both conceptual explanations and practical instruction on installing the software, preparing network data, specifying and estimating models, interpreting results, and applying advanced methods for dynamic social network analysis.
+>
+> <div style="text-align: right"><i> submitted by Graham Ambrose </i></div>
+
+<!-- ### 🌐 Web Resources -->
+<!-- ### ▶️ Videos -->
+<!-- ### 📊 Datasets -->
+
+
 
 ---
 [About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.

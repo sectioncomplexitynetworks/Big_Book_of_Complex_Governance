@@ -19,10 +19,15 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
+<!-- ### 📖 Books -->
+<!-- ### 📄 Articles -->
+<!-- ### 💻 Data Packages -->
+### 🌐 Web Resources 
+
 > 
 > ##### 🌐 The Big Book of R
 >
->**Link:** [https://www.bigbookofr.com/](https://www.bigbookofr.com/) 
+>**🌐 Link:** [https://www.bigbookofr.com/](https://www.bigbookofr.com/) 
 >
 ><i>Oscar Baruffa</i>
 >
@@ -30,6 +35,9 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
 
+
+<!-- ### ▶️ Videos -->
+<!-- ### 📊 Datasets -->
 ---
 [About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
 

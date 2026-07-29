@@ -18,6 +18,13 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
+<!-- ### 📖 Books -->
+<!-- ### 📄 Articles -->
+<!-- ### 💻 Data Packages -->
+<!-- ### 🌐 Web Resources -->
+<!-- ### ▶️ Videos -->
+<!-- ### 📊 Datasets -->
+
 ---
 [About Us]({{ "/about/"}}) © 2026 Section on Complexity and Network Studies. All rights reserved.
 
