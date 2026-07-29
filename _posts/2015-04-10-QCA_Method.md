@@ -13,17 +13,6 @@ tag:
 
 ---
 
-
-<!--#### Table of Contents -->
-  
-<!--📖 [Books]({{ page.url }}#books) -->
-<!--📄 [Articles]({{ page.url }}#articles) -->
-<!--💻 [Data Packages]({{ page.url }}#data-packages) -->
-<!-- 🌐 [Web Resources](#web-resources) -->
-<!-- ▶️ [Videos](#videos) -->
-<!-- 📊 [Datasets](#datasets) -->
-
-</div>
 ### 📖 Books
 
 > 
@@ -89,6 +78,11 @@ tag:
 > “Functions for performing set-theoretic multi-method research, QCA for clustered data, theory evaluation, Enhanced Standard Analysis, indirect calibration, radar visualisations. Additionally it includes data to replicate the examples in the books by Oana, I.E, C. Q. Schneider, and E. Thomann. Qualitative Comparative Analysis (QCA) using R: A Beginner's Guide. Cambridge University Press and C. Q. Schneider and C. Wagemann ``Set Theoretic Methods for the Social Sciences'', Cambridge University Press.”
 >
 > <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
+
+
+<!-- ### 🌐 Web Resources -->
+<!-- ### ▶️ Videos-->
+<!-- ### 📊 Datasets -->
 
 > 
 > ##### Add a Resource Here!
