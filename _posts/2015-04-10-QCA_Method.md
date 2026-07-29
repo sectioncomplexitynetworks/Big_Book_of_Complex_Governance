@@ -16,9 +16,9 @@ tag:
 <div style="text-align: center" markdown="1">
 #### Table of Contents
   
-📖 [Books](#books)
-📄 [Articles](#articles)
-💻 [Data Packages](#data-packages)
+📖 [Books]({{ page.url }}#books)
+📄 [Articles]({{ page.url }}#articles)
+💻 [Data Packages]({{ page.url }}#data-packages)
 <!-- 🌐 [Web Resources](#web-resources) -->
 <!-- ▶️ [Videos](#videos) -->
 <!-- 📊 [Datasets](#datasets) -->
