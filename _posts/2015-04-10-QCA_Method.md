@@ -12,11 +12,11 @@ tag:
   - Kate Albrecht
 
 ---
-
+### Table of Contents
+<div style="text-align: center">
+  
 📖 [Books](#Books)
-
 📄 [Articles](#Articles)
-
 💻 [Data Packages](#Data-Packages)
 
 <!-- 🌐 [Web Resources](#Web-Resources) -->
@@ -25,6 +25,7 @@ tag:
 
 <!-- 📊 [Datasets](#Datasets) -->
 
+</div>
 ### Books
 
 > 
