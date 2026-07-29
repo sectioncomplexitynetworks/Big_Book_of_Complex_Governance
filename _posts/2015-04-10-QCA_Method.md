@@ -48,15 +48,17 @@ tag:
 > <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
 
 > 
-> ##### Qualitative Comparative Analysis Using R: A Beginner's Guide. Cambridge University Press. (2021)
+> ##### Social Network Analysis and Qualitative Comparative Analysis: Their mutual benefit for the explanation of policy network structures. (2011)
 >
->📄  **Link:** [https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359](https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359) 
+>📄  **Link:** [https://doi.org/10.4256/mio.2010.0034](https://doi.org/10.4256/mio.2010.0034) 
 >
-><i>Oana, I.-E., Schneider, C. Q., & Thomann, E.</i>
+><i>Fischer, M.</i>
 >
-> “A comprehensive introduction and teaching resource for state-of-the-art Qualitative Comparative Analysis (QCA) using R software. This guide facilitates the efficient teaching, independent learning, and use of QCA with the best available software, reducing the time and effort required when encountering not just the logic of a new method, but also new software. With its applied and practical focus, the book offers a genuinely simple and intuitive resource for implementing the most complete protocol of QCA. To make the lives of students, teachers, researchers, and practitioners as easy as possible, the book includes learning goals, core points, empirical examples, and tips for good practices. The freely available online material provides a rich body of additional resources to aid users in their learning process. Beyond performing core analyses with the R package QCA, the book also facilitates a close integration with the R package SetMethods allowing for a host of additional protocols for building a more solid and well-rounded QCA.”
+>Abstract
 >
-> <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
+> “By switching the level of analysis and aggregating data from the micro-level of individual cases to the macro-level, quantitative data can be analysed within a more case-based approach. This paper presents such an approach in two steps: In a first step, it discusses the combination of Social Network Analysis (SNA) and Qualitative Comparative Analysis (QCA) in a sequential mixed-methods research design. In such a design, quantitative social network data on individual cases and their relations at the micro-level are used to describe the structure of the network that these cases constitute at the macro-level. Different network structures can then be compared by QCA. This strategy allows adding an element of potential causal explanation to SNA, while SNA-indicators allow for a systematic description of the cases to be compared by QCA. Because mixing methods can be a promising, but also a risky endeavour, the methodological part also discusses the possibility that underlying assumptions of both methods could clash. In a second step, the research design presented beforehand is applied to an empirical study of policy network structures in Swiss politics. Through a comparison of 11 policy networks, causal paths that lead to a conflictual or consensual policy network structure are identified and discussed. The analysis reveals that different theoretical factors matter and that multiple conjunctural causation is at work. Based on both the methodological discussion and the empirical application, it appears that a combination of SNA and QCA can represent a helpful methodological design for social science research and a possibility of using quantitative data with a more case-based approach.”
+>
+> <div style="text-align: right"><i> submitted by Kate Albrech </i></div>
 
 > 
 > ##### Add a Resource Here!
