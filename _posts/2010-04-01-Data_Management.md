@@ -25,7 +25,7 @@ tag:
 ### 🌐 Web Resources 
 
 > 
-> ##### 🌐 The Big Book of R
+> ##### The Big Book of R
 >
 >**🌐 Link:** [https://www.bigbookofr.com/](https://www.bigbookofr.com/) 
 >

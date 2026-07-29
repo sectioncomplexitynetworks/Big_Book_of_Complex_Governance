@@ -28,7 +28,7 @@ General discussion of what SOAM are.
 ### 💻 Data Packages
 
 > 
-> ##### 💻 Manual for RSiena
+> ##### Manual for RSiena
 >
 >**💻 Link:** [https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf](https://www.stats.ox.ac.uk/~snijders/siena/RSiena_Manual.pdf) 
 >

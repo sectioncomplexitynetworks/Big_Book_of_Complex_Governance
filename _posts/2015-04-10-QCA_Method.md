@@ -62,6 +62,8 @@ tag:
 >
 ><i>Cristofoli, D., & Markovic, J.</i>
 >
+>Abstract
+>
 >"Many studies have striven to understand which factors affect the performance of public networks. However, there are very few studies in the field of public management that investigate the joint, interactive effects of different determinants on network performance. This article uses the relatively new method of qualitative comparative analysis (QCA) to investigate the complex causality of determinants and network performance. It examines the combination of resource munificence, centralization of the network structure, formalization of coordination mechanisms, network management and their joint effects on network performance. An analysis of 12 Swiss networks providing home and social care services shows that there are a range of possible paths. Various combinations of the above-mentioned factors can in fact lead to high network performance. The paths provide insight into how to make public networks really work."
 >
 > <div style="text-align: right"><i> submitted by Kate Albrech </i></div>
