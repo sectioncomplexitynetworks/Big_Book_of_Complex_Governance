@@ -8,6 +8,7 @@ tag:
   - Kate Albrecht
   - Kate Albrecht
   - Kate Albrecht
+  - Kate Albrecht
 
 ---
 
@@ -39,6 +40,17 @@ tag:
 > ##### Qualitative Comparative Analysis Using R: A Beginner's Guide. Cambridge University Press. (2021)
 >
 >📖  **Link:** [https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359](https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359) 
+>
+><i>Oana, I.-E., Schneider, C. Q., & Thomann, E.</i>
+>
+> “A comprehensive introduction and teaching resource for state-of-the-art Qualitative Comparative Analysis (QCA) using R software. This guide facilitates the efficient teaching, independent learning, and use of QCA with the best available software, reducing the time and effort required when encountering not just the logic of a new method, but also new software. With its applied and practical focus, the book offers a genuinely simple and intuitive resource for implementing the most complete protocol of QCA. To make the lives of students, teachers, researchers, and practitioners as easy as possible, the book includes learning goals, core points, empirical examples, and tips for good practices. The freely available online material provides a rich body of additional resources to aid users in their learning process. Beyond performing core analyses with the R package QCA, the book also facilitates a close integration with the R package SetMethods allowing for a host of additional protocols for building a more solid and well-rounded QCA.”
+>
+> <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
+
+> 
+> ##### Qualitative Comparative Analysis Using R: A Beginner's Guide. Cambridge University Press. (2021)
+>
+>📄  **Link:** [https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359](https://www.cambridge.org/core/books/qualitative-comparative-analysis-using-r/257B799D0A81B87EBD51EA062FABD359) 
 >
 ><i>Oana, I.-E., Schneider, C. Q., & Thomann, E.</i>
 >
