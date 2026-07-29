@@ -13,18 +13,18 @@ tag:
 
 ---
 
-<div style="text-align: center" markdown="1">
-#### Table of Contents
+
+<!--#### Table of Contents -->
   
-📖 [Books]({{ page.url }}#books)
-📄 [Articles]({{ page.url }}#articles)
-💻 [Data Packages]({{ page.url }}#data-packages)
+<!--📖 [Books]({{ page.url }}#books) -->
+<!--📄 [Articles]({{ page.url }}#articles) -->
+<!--💻 [Data Packages]({{ page.url }}#data-packages) -->
 <!-- 🌐 [Web Resources](#web-resources) -->
 <!-- ▶️ [Videos](#videos) -->
 <!-- 📊 [Datasets](#datasets) -->
 
 </div>
-### Books
+### 📖 Books
 
 > 
 > ##### Qualitative Comparative Analysis Using R: A Beginner's Guide. Cambridge University Press. (2021)
@@ -37,7 +37,7 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by Kate Albrecht </i></div>
 
-### Articles
+### 📄 Articles
 
 > 
 > ##### Combining Structure, Governance, and Context: A Configurational Approach to Network Effectiveness. (2015)
@@ -77,7 +77,7 @@ tag:
 >
 > <div style="text-align: right"><i> submitted by Kate Albrech </i></div>
 
-### Data Packages
+### 💻 Data Packages
 
 > 
 > ##### R packages: QCA and SetMethods, both on CRAN; the latter's manual:
