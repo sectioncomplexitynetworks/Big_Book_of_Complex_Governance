@@ -15,15 +15,15 @@ tag:
 ### Table of Contents
 <div style="text-align: center" markdown="1">
   
-📖 [Books](#Books)
-📄 [Articles](#Articles)
-💻 [Data Packages](#Data-Packages)
+📖 [Books](#books)
+📄 [Articles](#articles)
+💻 [Data Packages](#data-packages)
 
-<!-- 🌐 [Web Resources](#Web-Resources) -->
+<!-- 🌐 [Web Resources](#web-resources) -->
 
-<!-- ▶️ [Videos](#Videos) -->
+<!-- ▶️ [Videos](#videos) -->
 
-<!-- 📊 [Datasets](#Datasets) -->
+<!-- 📊 [Datasets](#datasets) -->
 
 </div>
 ### Books
