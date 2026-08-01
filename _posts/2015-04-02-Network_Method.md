@@ -61,7 +61,7 @@ tag:
 > 
 > ##### Handbook of Graphs and Networks in People Analytics
 >
->**📖 Link:** [https://ona-book.org/](https://ona-book.org/) 
+>**🌐 Link:** [https://ona-book.org/](https://ona-book.org/) 
 >
 ><i>Keith McNulty</i>
 >
@@ -71,7 +71,7 @@ tag:
 > 
 > ##### R for Social Network Analysis
 >
->**📖 Link:** [https://schochastics.github.io/R4SNA/](https://schochastics.github.io/R4SNA/) 
+>**🌐 Link:** [https://schochastics.github.io/R4SNA/](https://schochastics.github.io/R4SNA/) 
 >
 ><i>Termeh Shafie and David Schoch</i>
 >
