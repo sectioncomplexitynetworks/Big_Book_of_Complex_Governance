@@ -79,6 +79,17 @@ tag:
 >
 >The book is aimed at researchers, students, and practitioners who already know a little R and want a guided tour of the network-analysis ecosystem without having to stitch together a dozen package vignettes themselves."
 >
+
+
+> 
+> ##### Awesome Network Analysis
+>
+>**🌐 Link:** [https://github.com/briatte/awesome-network-analysis#books](https://github.com/briatte/awesome-network-analysis#books) 
+>
+><i>Extensive, please see [here](https://github.com/briatte/awesome-network-analysis#license)</i>
+>
+>An extensive repository of reserches inclusing but not limited to: Books, Conferences, Courses, Datasets, Journals, Professional groups, and Review Articles across the fields of Archeological and Historical Networks; Biological, Ecological and Disease Networks; and Social, Economic and Political Networks.
+>
 <!-- ### ▶️ Videos -->
 <!-- ### 📊 Datasets -->
 
