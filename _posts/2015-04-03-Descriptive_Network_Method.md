@@ -8,17 +8,6 @@ tag:
 
 ---
 
-> 
-> ##### Add a Resource Here!
->
->**Link:** [Submit a Resource Today!]({{"/pages/submit_resource/"}})
->
-><i>Authors</i>
->
->Description of the resource here
->
-> <div style="text-align: right"><i> submitted by YOU! </i></div>
-
 <!-- ### 📖 Books -->
 <!-- ### 📄 Articles -->
 <!-- ### 💻 Data Packages -->

@@ -8,17 +8,6 @@ tag:
   - Graham Ambrose
 ---
 
-> 
-> ##### Add a Resource Here!
->
->**Link:** [Submit a Resource Today!]({{"/pages/submit_resource/"}})
->
-><i>Authors</i>
->
->Description of the resource here
->
-> <div style="text-align: right"><i> submitted by YOU! </i></div>
-
 ### 📖 Books
 
 > 
@@ -79,7 +68,6 @@ tag:
 >
 >The book is aimed at researchers, students, and practitioners who already know a little R and want a guided tour of the network-analysis ecosystem without having to stitch together a dozen package vignettes themselves."
 >
-
 
 > 
 > ##### Awesome Network Analysis

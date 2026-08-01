@@ -10,16 +10,6 @@ tag:
 
 ## Exponential Random Graph Models (ERGMs)
 
-> 
-> ##### Add a Resource Here!
->
->**Link:** [Stand-in Link to Home Page](https://ambro034.github.io/Big_Book_of_Complex_Governance/) 
->
-><i>Authors</i>
->
->Description of the resource here
->
-> <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 ### 🌐 Web Resources
 
@@ -59,17 +49,6 @@ tag:
 > <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 ## Separable Temporal Exponential Random Graph Models (STERGMs)
-
-> 
-> ##### Add a Resource Here!
->
->**Link:** [Submit a Resource Today!]({{"/pages/submit_resource/"}}) 
->
-><i>Authors</i>
->
->Description of the resource here
->
-> <div style="text-align: right"><i> submitted by YOU! </i></div>
 
 <!-- ### 📖 Books -->
 <!-- ### 📄 Articles -->
