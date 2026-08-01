@@ -38,7 +38,18 @@ General discussion of what SOAM are.
 >
 > <div style="text-align: right"><i> submitted by Graham Ambrose </i></div>
 
-<!-- ### 🌐 Web Resources -->
+### 🌐 Web Resources
+
+> 
+> ##### Stochastic Actor Oriented Models (SAOMs)
+>
+>**🌐 Link:** [https://schochastics.github.io/R4SNA/inferential/saom.html](https://schochastics.github.io/R4SNA/inferential/saom.html) 
+>
+><i>Termeh Shafie and David Schoch</i>
+>
+>"Unlike cross-sectional models that treat the network as a single outcome, SAOMs treat the network as a continuous-time stochastic process driven by individual actor decisions. In this framework, changes to the network occur one tie at a time, reflecting micro-level decisions made by actors based on preferences, opportunities, and constraints. SAOMs are particularly well-suited for panel data, i.e., multiple observations of the same network over time where both tie structures and actor attributes may co-evolve."
+>
+
 <!-- ### ▶️ Videos -->
 <!-- ### 📊 Datasets -->
 
